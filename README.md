@@ -7,11 +7,11 @@ This is a development board for testing the HLS-LFCD2 LIDAR.
 
 ## Contents
 
-**Documentation:** Schematic PDF, Datasheet PDF, BOM, Vector Model
+**Documentation:** Schematic PDF, Datasheet PDF, BOM
 
 **Hardware:** Altium PCB design File, Altium SCH Design File
 
-**Firmware:** Compiled Hex for WiFi Module, Compiled Hex for Secondary PIC
+**Firmware:** Code, Compiled .bin
 
 ## License
 
