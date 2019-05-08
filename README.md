@@ -3,6 +3,8 @@
 ![LIDAR](https://live.staticflickr.com/65535/40778036183_b00cbc3a88_k.jpg)
 ![LIDAR](https://live.staticflickr.com/65535/32801179637_d0344c3f3b_k.jpg)
 
+The EZ-Builder behavior control for this hardware can be found here: https://synthiam.com/Software/Manual/EZ-LIDAR-SLAM-15944
+
 This is a development board for testing the HLS-LFCD2 LIDAR.
 
 ## Contents
