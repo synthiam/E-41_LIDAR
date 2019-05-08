@@ -5,7 +5,7 @@
 
 The EZ-Builder behavior control for this reference design can be found here: https://synthiam.com/Software/Manual/EZ-LIDAR-SLAM-15944
 
-This is a development board for testing the HLS-LFCD2 LIDAR.
+This is a development board for the HLS-LFCD2 LIDAR.
 
 ## Contents
 
