@@ -59,7 +59,7 @@ The EZ-Builder behavior control for this reference design is very easy to use! S
 
 Link: https://synthiam.com/Software/Manual/EZ-LIDAR-SLAM-15944
 
-<a href="https://synthiam.com/Software/Manual/EZ-LIDAR-SLAM-15944"><img src="https://media.giphy.com/media/kBMzMoIjNVdNcOrw6s/giphy.gif" width="683" height="383"></a>
+<a href="https://synthiam.com/Software/Manual/EZ-LIDAR-SLAM-15944"><img src="E-41 Control.gif" width="683" height="383"></a>
 
 ## Contact
 
