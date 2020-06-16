@@ -6,9 +6,9 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 ## Description
 
-Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
+Out of our passion to solve the issue of time waste in the robot creation process, ARC was born. The ARC software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
-We didn't stop at the software, we also made time saving hardware solutions. This LIDAR reference design is one of them. This reference design simplifies the communication from the LIDAR and allows it easily interface to EZ-Builder. EZ-Builder then gives a visual representation of the data and starts mapping the area. We want to share these files with you so you can create your own version for your community and customers to enjoy!
+We didn't stop at the software, we also made time saving hardware solutions. This LIDAR reference design is one of them. This reference design simplifies the communication from the LIDAR and allows it easily interface to ARC. ARC then gives a visual representation of the data and starts mapping the area. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
 **Features:**
 - I2C breakout
@@ -18,7 +18,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - 5V tolerant I/O pins
 - Mounting points for LIDAR unit
 - 5V energy effecient switching power supply
-- EZ-Builder behavior control available
+- ARC skill available
 - Reverse polarity protection
 - Bicolor Blue/red indicator LED
 - Voltage requirement: 5-16VDC (7.4V Typical)
@@ -53,9 +53,9 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 <img src="https://live.staticflickr.com/65535/40778036183_b00cbc3a88_k.jpg" width="683" height="383">
 <img src="https://live.staticflickr.com/65535/32801179637_d0344c3f3b_k.jpg" width="683" height="383"></p>
 
-## EZ-Builder Behavior Control
+## ARC Skill
 
-The EZ-Builder behavior control for this reference design is very easy to use! Simply add an animation frame, click on the pixels, choose the color, and repeat! Activate the animations with the click of a mouse button or with code. 
+The ARC Skill for this reference design is very easy to use. Simply add an animation frame, click on the pixels, choose the color, and repeat! Activate the animations with the click of a mouse button or with code. 
 
 Link: https://synthiam.com/Software/Manual/EZ-LIDAR-SLAM-15944
 
