@@ -17,7 +17,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - SWD programming header
 - 5V tolerant I/O pins
 - Mounting points for LIDAR unit
-- 5V energy effecient switching power supply
+- 5V energy efficient switching power supply
 - ARC skill available
 - Reverse polarity protection
 - Bicolor Blue/red indicator LED
